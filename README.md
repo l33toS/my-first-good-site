@@ -1,1 +1,1 @@
-Привет,я начинающий разработчик,если нашел какие то проблемы в коде ,напиши мне постараюсь усвоить..!
+Hi, I'm a novice developer,if you find any problems in the code, write to me and try to learn..!
